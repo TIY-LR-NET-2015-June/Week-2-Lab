@@ -118,7 +118,7 @@ To submit your assignment:
 
 ## Notes
 
-This can be fairly challenging, and is the end of our adventure in pure Ruby
+This can be fairly challenging, and is the end of our adventure in pure c#
 programming.
 
 ## Additional Resources
